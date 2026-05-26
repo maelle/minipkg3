@@ -9,3 +9,5 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 8.0.0.9000
+URL: https://github.com/maelle/minipkg3
+BugReports: https://github.com/maelle/minipkg3/issues
