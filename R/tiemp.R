@@ -9,7 +9,9 @@
 #' what_time()
 #' what_time("en")
 what_time <- function(language = "es") {
-  rlang::arg_match0(language, c("es", "en"))
+  if (!(language %in% c("es", "en"))) {
+    stop("Malo")
+  }
 
   time <- format(Sys.time(), "%H:%M")
 
