@@ -28,10 +28,11 @@ what_time()
 
 ## All functions
 
-- [`what_time()`](what_time.md) : Da la hora
+- [`what_time()`](https://maelle.github.io/minipkg3/reference/what_time.md)
+  : Da la hora
 
 # Articles
 
 ### All vignettes
 
-- [minipkg3](minipkg3.md):
+- [minipkg3](https://maelle.github.io/minipkg3/articles/minipkg3.md):

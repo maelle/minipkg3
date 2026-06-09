@@ -1,12 +1,12 @@
 <urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
-<url><loc>/404.html</loc></url>
-<url><loc>/LICENSE-text.html</loc></url>
-<url><loc>/LICENSE.html</loc></url>
-<url><loc>/articles/index.html</loc></url>
-<url><loc>/articles/minipkg3.html</loc></url>
-<url><loc>/authors.html</loc></url>
-<url><loc>/index.html</loc></url>
-<url><loc>/reference/index.html</loc></url>
-<url><loc>/reference/what_time.html</loc></url>
+<url><loc>https://maelle.github.io/minipkg3/404.html</loc></url>
+<url><loc>https://maelle.github.io/minipkg3/LICENSE-text.html</loc></url>
+<url><loc>https://maelle.github.io/minipkg3/LICENSE.html</loc></url>
+<url><loc>https://maelle.github.io/minipkg3/articles/index.html</loc></url>
+<url><loc>https://maelle.github.io/minipkg3/articles/minipkg3.html</loc></url>
+<url><loc>https://maelle.github.io/minipkg3/authors.html</loc></url>
+<url><loc>https://maelle.github.io/minipkg3/index.html</loc></url>
+<url><loc>https://maelle.github.io/minipkg3/reference/index.html</loc></url>
+<url><loc>https://maelle.github.io/minipkg3/reference/what_time.html</loc></url>
 </urlset>
 

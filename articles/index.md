@@ -2,4 +2,4 @@
 
 ### All vignettes
 
-- [minipkg3](minipkg3.md):
+- [minipkg3](https://maelle.github.io/minipkg3/articles/minipkg3.md):

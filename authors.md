@@ -12,12 +12,12 @@ Source:
 
 Salmon M (2026). *minipkg3: What the Package Does (One Line, Title
 Case)*. R package version 0.0.0.9000,
-<https://github.com/maelle/minipkg3>.
+<https://maelle.github.io/minipkg3>.
 
     @Manual{,
       title = {minipkg3: What the Package Does (One Line, Title Case)},
       author = {Maëlle Salmon},
       year = {2026},
       note = {R package version 0.0.0.9000},
-      url = {https://github.com/maelle/minipkg3},
+      url = {https://maelle.github.io/minipkg3},
     }

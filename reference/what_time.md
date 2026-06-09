@@ -22,7 +22,7 @@ Una frase
 
 ``` r
 what_time()
-#> [1] "Mmhm! Ahora son las 13:22!"
+#> [1] "Mmhm! Ahora son las 13:24!"
 what_time("en")
-#> [1] "Hmm! It is 13:22 now!"
+#> [1] "Hmm! It is 13:24 now!"
 ```

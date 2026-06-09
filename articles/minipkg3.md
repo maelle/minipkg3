@@ -10,5 +10,5 @@ Puedo explicar y mostrar lo que hace el paquete.
 ``` r
 
 what_time()
-#> [1] "Ole! Ahora son las 13:22!"
+#> [1] "Huzzah! Ahora son las 13:24!"
 ```

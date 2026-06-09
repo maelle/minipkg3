@@ -2,4 +2,5 @@
 
 ## All functions
 
-- [`what_time()`](what_time.md) : Da la hora
+- [`what_time()`](https://maelle.github.io/minipkg3/reference/what_time.md)
+  : Da la hora
